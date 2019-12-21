@@ -1,0 +1,8 @@
+base.py                     26 INFO     正在查找：('xpath', "//*[@class='android.widget.HorizontalScrollView']") 元素
+base.py                     26 INFO     正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+base.py                     26 INFO     正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+base.py                     26 INFO     正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+base.py                     26 INFO     正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+base.py                     26 INFO     正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+base.py                     26 INFO     正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']") 元素
+base.py                     26 INFO     正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素

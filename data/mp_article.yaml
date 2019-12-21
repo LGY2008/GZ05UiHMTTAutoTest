@@ -1,0 +1,4 @@
+mp_article001:
+  title: "sz05002"
+  content: "今天天气阳光明媚"
+  expect: "新增文章成功"

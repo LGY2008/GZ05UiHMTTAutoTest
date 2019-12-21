@@ -1,0 +1,126 @@
+2019-12-21 09:52:49,722 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="22097165-d8e1-47b9-829c-6dbd937d99ca")>
+2019-12-21 09:53:29,049 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="d2a04c4d-c634-4c01-8eee-66b31642273e")>
+2019-12-21 09:53:29,051 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素
+2019-12-21 09:53:33,478 INFO [root] [base.py (base_input:33] - 对：('xpath', "//*[@index='1' and @class='android.widget.EditText']")元素 执行清空操作
+2019-12-21 09:53:35,792 INFO [root] [base.py (base_input:36] - 对：('xpath', "//*[@index='1' and @class='android.widget.EditText']")元素 执行输入：13812345678操作
+2019-12-21 09:53:41,541 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素
+2019-12-21 09:53:41,593 INFO [root] [base.py (base_input:33] - 对：('xpath', "//*[@index='2' and @class='android.widget.EditText']")元素 执行清空操作
+2019-12-21 09:53:44,389 INFO [root] [base.py (base_input:36] - 对：('xpath', "//*[@index='2' and @class='android.widget.EditText']")元素 执行输入：246810操作
+2019-12-21 09:53:49,163 INFO [root] [base.py (base_click:42] - 对：('xpath', "//*[@class='android.widget.Button' and @text='登录']")元素 执行点击操作
+2019-12-21 09:53:49,163 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@class='android.widget.Button' and @text='登录']") 元素
+2019-12-21 09:53:49,360 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@index='3' and contains(@text,'我的')]") 元素
+2019-12-21 10:07:33,714 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="d6162d5b-b1c7-4fc4-9faf-b0b02cf5cdcb")>
+2019-12-21 10:07:33,715 INFO [root] [page_app_login.py (page_app_login:29] - 正在调用app登录业务方法，用户名：13812345678 密码：246810
+2019-12-21 10:07:33,716 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素
+2019-12-21 10:07:37,967 INFO [root] [base.py (base_input:33] - 对：('xpath', "//*[@index='1' and @class='android.widget.EditText']")元素 执行清空操作
+2019-12-21 10:07:40,457 INFO [root] [base.py (base_input:36] - 对：('xpath', "//*[@index='1' and @class='android.widget.EditText']")元素 执行输入：13812345678操作
+2019-12-21 10:07:45,344 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素
+2019-12-21 10:07:45,396 INFO [root] [base.py (base_input:33] - 对：('xpath', "//*[@index='2' and @class='android.widget.EditText']")元素 执行清空操作
+2019-12-21 10:07:48,121 INFO [root] [base.py (base_input:36] - 对：('xpath', "//*[@index='2' and @class='android.widget.EditText']")元素 执行输入：246810操作
+2019-12-21 10:07:52,921 INFO [root] [base.py (base_click:42] - 对：('xpath', "//*[@class='android.widget.Button' and @text='登录']")元素 执行点击操作
+2019-12-21 10:07:52,921 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@class='android.widget.Button' and @text='登录']") 元素
+2019-12-21 10:07:53,878 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@index='3' and contains(@text,'我的')]") 元素
+2019-12-21 10:07:55,909 INFO [root] [base_app.py (base_app_if_element_exists:12] - 找到元素：('xpath', "//*[@index='3' and contains(@text,'我的')]") 存在
+2019-12-21 11:39:38,169 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="d552a931-680d-4dbf-a536-80ac4f78f8b1")>
+2019-12-21 11:39:38,170 INFO [root] [page_app_login.py (page_app_login_success:36] - 正在调用app成功登录业务依赖方法，用户名：13812345678 密码：246810
+2019-12-21 11:39:38,170 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素
+2019-12-21 11:39:42,741 INFO [root] [base.py (base_input:33] - 对：('xpath', "//*[@index='1' and @class='android.widget.EditText']")元素 执行清空操作
+2019-12-21 11:39:45,435 INFO [root] [base.py (base_input:36] - 对：('xpath', "//*[@index='1' and @class='android.widget.EditText']")元素 执行输入：13812345678操作
+2019-12-21 11:39:50,777 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素
+2019-12-21 11:39:51,453 INFO [root] [base.py (base_input:33] - 对：('xpath', "//*[@index='2' and @class='android.widget.EditText']")元素 执行清空操作
+2019-12-21 11:39:53,723 INFO [root] [base.py (base_input:36] - 对：('xpath', "//*[@index='2' and @class='android.widget.EditText']")元素 执行输入：246810操作
+2019-12-21 11:39:58,956 INFO [root] [base.py (base_click:42] - 对：('xpath', "//*[@class='android.widget.Button' and @text='登录']")元素 执行点击操作
+2019-12-21 11:39:58,957 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@class='android.widget.Button' and @text='登录']") 元素
+2019-12-21 11:39:59,825 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="d552a931-680d-4dbf-a536-80ac4f78f8b1")>
+2019-12-21 11:39:59,826 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@class='android.widget.HorizontalScrollView']") 元素
+2019-12-21 11:40:02,322 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 11:42:09,842 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="3ece7ff6-f05b-41b4-b349-1bd9a911fbac")>
+2019-12-21 11:42:09,843 INFO [root] [page_app_login.py (page_app_login_success:36] - 正在调用app成功登录业务依赖方法，用户名：13812345678 密码：246810
+2019-12-21 11:42:09,843 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素
+2019-12-21 11:42:14,341 INFO [root] [base.py (base_input:33] - 对：('xpath', "//*[@index='1' and @class='android.widget.EditText']")元素 执行清空操作
+2019-12-21 11:42:17,019 INFO [root] [base.py (base_input:36] - 对：('xpath', "//*[@index='1' and @class='android.widget.EditText']")元素 执行输入：13812345678操作
+2019-12-21 11:42:21,904 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素
+2019-12-21 11:42:21,968 INFO [root] [base.py (base_input:33] - 对：('xpath', "//*[@index='2' and @class='android.widget.EditText']")元素 执行清空操作
+2019-12-21 11:42:23,775 INFO [root] [base.py (base_input:36] - 对：('xpath', "//*[@index='2' and @class='android.widget.EditText']")元素 执行输入：246810操作
+2019-12-21 11:42:28,597 INFO [root] [base.py (base_click:42] - 对：('xpath', "//*[@class='android.widget.Button' and @text='登录']")元素 执行点击操作
+2019-12-21 11:42:28,597 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@class='android.widget.Button' and @text='登录']") 元素
+2019-12-21 11:42:28,812 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="3ece7ff6-f05b-41b4-b349-1bd9a911fbac")>
+2019-12-21 11:42:28,813 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@class='android.widget.HorizontalScrollView']") 元素
+2019-12-21 11:42:31,325 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 11:42:34,648 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 11:42:37,964 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 11:42:41,299 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 11:42:44,687 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 11:43:16,966 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="516c73c0-8687-4024-a4d3-4f061de13570")>
+2019-12-21 11:43:16,967 INFO [root] [page_app_login.py (page_app_login_success:36] - 正在调用app成功登录业务依赖方法，用户名：13812345678 密码：246810
+2019-12-21 11:43:16,967 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素
+2019-12-21 11:43:21,485 INFO [root] [base.py (base_input:33] - 对：('xpath', "//*[@index='1' and @class='android.widget.EditText']")元素 执行清空操作
+2019-12-21 11:43:24,191 INFO [root] [base.py (base_input:36] - 对：('xpath', "//*[@index='1' and @class='android.widget.EditText']")元素 执行输入：13812345678操作
+2019-12-21 11:43:29,107 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素
+2019-12-21 11:43:29,149 INFO [root] [base.py (base_input:33] - 对：('xpath', "//*[@index='2' and @class='android.widget.EditText']")元素 执行清空操作
+2019-12-21 11:43:31,071 INFO [root] [base.py (base_input:36] - 对：('xpath', "//*[@index='2' and @class='android.widget.EditText']")元素 执行输入：246810操作
+2019-12-21 11:43:36,415 INFO [root] [base.py (base_click:42] - 对：('xpath', "//*[@class='android.widget.Button' and @text='登录']")元素 执行点击操作
+2019-12-21 11:43:36,415 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@class='android.widget.Button' and @text='登录']") 元素
+2019-12-21 11:43:37,357 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="516c73c0-8687-4024-a4d3-4f061de13570")>
+2019-12-21 11:43:37,359 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@class='android.widget.HorizontalScrollView']") 元素
+2019-12-21 11:43:39,445 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 11:43:42,409 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 11:43:45,708 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 11:43:48,910 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 11:43:52,135 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 14:57:07,008 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="87b53df5-4b17-4500-ad08-045dd7c9196a")>
+2019-12-21 14:57:07,009 INFO [root] [page_app_login.py (page_app_login_success:36] - 正在调用app成功登录业务依赖方法，用户名：13812345678 密码：246810
+2019-12-21 14:57:07,009 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素
+2019-12-21 14:57:11,301 INFO [root] [base.py (base_input:33] - 对：('xpath', "//*[@index='1' and @class='android.widget.EditText']")元素 执行清空操作
+2019-12-21 14:57:13,828 INFO [root] [base.py (base_input:36] - 对：('xpath', "//*[@index='1' and @class='android.widget.EditText']")元素 执行输入：13812345678操作
+2019-12-21 14:57:18,719 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素
+2019-12-21 14:57:18,768 INFO [root] [base.py (base_input:33] - 对：('xpath', "//*[@index='2' and @class='android.widget.EditText']")元素 执行清空操作
+2019-12-21 14:57:20,716 INFO [root] [base.py (base_input:36] - 对：('xpath', "//*[@index='2' and @class='android.widget.EditText']")元素 执行输入：246810操作
+2019-12-21 14:57:25,550 INFO [root] [base.py (base_click:42] - 对：('xpath', "//*[@class='android.widget.Button' and @text='登录']")元素 执行点击操作
+2019-12-21 14:57:25,550 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@class='android.widget.Button' and @text='登录']") 元素
+2019-12-21 14:57:26,465 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="87b53df5-4b17-4500-ad08-045dd7c9196a")>
+2019-12-21 14:57:26,466 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@class='android.widget.HorizontalScrollView']") 元素
+2019-12-21 14:57:28,626 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 14:57:31,959 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 14:57:35,669 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 14:57:38,852 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 14:57:42,068 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 14:57:42,556 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']") 元素
+2019-12-21 14:57:43,488 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素
+2019-12-21 14:57:46,571 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素
+2019-12-21 14:57:49,918 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素
+2019-12-21 14:57:53,120 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素
+2019-12-21 14:57:56,387 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素
+2019-12-21 14:57:59,582 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素
+2019-12-21 14:58:02,855 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素
+2019-12-21 14:58:06,009 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素
+2019-12-21 14:58:09,249 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素
+2019-12-21 14:58:12,075 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素
+2019-12-21 14:58:15,542 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素
+2019-12-21 14:58:18,842 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素
+2019-12-21 14:58:22,052 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素
+2019-12-21 14:58:25,239 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素
+2019-12-21 14:58:28,336 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素
+2019-12-21 14:58:31,607 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素
+2019-12-21 14:58:35,486 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素
+2019-12-21 14:58:38,481 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素
+2019-12-21 14:58:41,566 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素
+2019-12-21 15:07:37,263 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="46351379-a5cc-43ba-8fe0-d3ff269cda04")>
+2019-12-21 15:07:37,263 INFO [root] [page_app_login.py (page_app_login_success:36] - 正在调用app成功登录业务依赖方法，用户名：13812345678 密码：246810
+2019-12-21 15:07:37,263 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素
+2019-12-21 15:07:41,763 INFO [root] [base.py (base_input:33] - 对：('xpath', "//*[@index='1' and @class='android.widget.EditText']")元素 执行清空操作
+2019-12-21 15:07:44,188 INFO [root] [base.py (base_input:36] - 对：('xpath', "//*[@index='1' and @class='android.widget.EditText']")元素 执行输入：13812345678操作
+2019-12-21 15:07:49,148 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素
+2019-12-21 15:07:49,178 INFO [root] [base.py (base_input:33] - 对：('xpath', "//*[@index='2' and @class='android.widget.EditText']")元素 执行清空操作
+2019-12-21 15:07:51,644 INFO [root] [base.py (base_input:36] - 对：('xpath', "//*[@index='2' and @class='android.widget.EditText']")元素 执行输入：246810操作
+2019-12-21 15:07:56,444 INFO [root] [base.py (base_click:42] - 对：('xpath', "//*[@class='android.widget.Button' and @text='登录']")元素 执行点击操作
+2019-12-21 15:07:56,445 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@class='android.widget.Button' and @text='登录']") 元素
+2019-12-21 15:07:57,286 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="46351379-a5cc-43ba-8fe0-d3ff269cda04")>
+2019-12-21 15:07:57,287 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@class='android.widget.HorizontalScrollView']") 元素
+2019-12-21 15:08:00,211 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 15:08:03,575 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 15:08:06,799 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 15:08:09,971 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 15:08:13,115 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[contains(@text,'python')]") 元素
+2019-12-21 15:08:13,558 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']") 元素
+2019-12-21 15:08:14,753 INFO [root] [base.py (base_find:26] - 正在查找：('xpath', "//*[@bounds='[0,390][1080,1716]']//*[contains(@text,'模块')]") 元素

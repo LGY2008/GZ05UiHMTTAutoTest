@@ -1,0 +1,11 @@
+base.py                     15 INFO     获取driver对象：<appium.webdriver.webdriver.WebDriver (session="46351379-a5cc-43ba-8fe0-d3ff269cda04")>
+page_app_login.py           36 INFO     正在调用app成功登录业务依赖方法，用户名：13812345678 密码：246810
+base.py                     26 INFO     正在查找：('xpath', "//*[@index='1' and @class='android.widget.EditText']") 元素
+base.py                     33 INFO     对：('xpath', "//*[@index='1' and @class='android.widget.EditText']")元素 执行清空操作
+base.py                     36 INFO     对：('xpath', "//*[@index='1' and @class='android.widget.EditText']")元素 执行输入：13812345678操作
+base.py                     26 INFO     正在查找：('xpath', "//*[@index='2' and @class='android.widget.EditText']") 元素
+base.py                     33 INFO     对：('xpath', "//*[@index='2' and @class='android.widget.EditText']")元素 执行清空操作
+base.py                     36 INFO     对：('xpath', "//*[@index='2' and @class='android.widget.EditText']")元素 执行输入：246810操作
+base.py                     42 INFO     对：('xpath', "//*[@class='android.widget.Button' and @text='登录']")元素 执行点击操作
+base.py                     26 INFO     正在查找：('xpath', "//*[@class='android.widget.Button' and @text='登录']") 元素
+base.py                     15 INFO     获取driver对象：<appium.webdriver.webdriver.WebDriver (session="46351379-a5cc-43ba-8fe0-d3ff269cda04")>

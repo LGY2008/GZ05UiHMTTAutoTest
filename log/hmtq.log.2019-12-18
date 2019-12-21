@@ -1,0 +1,131 @@
+2019-12-18 15:52:14,383 INFO [root] [base.py (__init__:12] - 获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="f917f8639746cb32829f8c4a0fbc6247")>
+2019-12-18 15:52:14,383 INFO [root] [page_mp_login.py (page_mp_login_success:34] - 正在执行登录业务方法，用户名：13812345678 密码：246810
+2019-12-18 15:52:14,383 INFO [root] [base.py (base_find:23] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 15:52:14,443 INFO [root] [base.py (base_input:30] - 对：('css selector', "[placeholder='请输入手机号']")元素 执行清空操作
+2019-12-18 15:52:14,473 INFO [root] [base.py (base_input:33] - 对：('css selector', "[placeholder='请输入手机号']")元素 执行输入：13812345678操作
+2019-12-18 15:52:14,695 INFO [root] [base.py (base_find:23] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 15:52:14,709 INFO [root] [base.py (base_input:30] - 对：('css selector', "[placeholder='验证码']")元素 执行清空操作
+2019-12-18 15:52:14,741 INFO [root] [base.py (base_input:33] - 对：('css selector', "[placeholder='验证码']")元素 执行输入：246810操作
+2019-12-18 15:52:14,825 INFO [root] [base.py (base_click:39] - 对：('css selector', '.el-button--primary')元素 执行点击操作
+2019-12-18 15:52:14,825 INFO [root] [base.py (base_find:23] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 15:52:14,955 INFO [root] [base.py (__init__:12] - 获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="f917f8639746cb32829f8c4a0fbc6247")>
+2019-12-18 15:52:14,956 INFO [root] [page_mp_article.py (page_article:57] - 正在调用输入文章业务方法，文章标题：sz05002 文章内容：今天天气阳光明媚
+2019-12-18 15:52:16,956 INFO [root] [base.py (base_click:39] - 对：('xpath', "//ul[@role='menubar']//*[text()='内容管理']/..")元素 执行点击操作
+2019-12-18 15:52:16,956 INFO [root] [base.py (base_find:23] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 15:52:18,068 INFO [root] [base.py (base_click:39] - 对：('xpath', "//ul[@role='menubar']//*[contains(text(),'发布文章')]")元素 执行点击操作
+2019-12-18 15:52:18,068 INFO [root] [base.py (base_find:23] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 15:52:18,162 INFO [root] [base.py (base_find:23] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 15:52:18,758 INFO [root] [base.py (base_input:30] - 对：('xpath', "//*[@placeholder='文章名称']")元素 执行清空操作
+2019-12-18 15:52:18,797 INFO [root] [base.py (base_input:33] - 对：('xpath', "//*[@placeholder='文章名称']")元素 执行输入：sz05002操作
+2019-12-18 15:52:21,008 INFO [root] [base.py (base_find:23] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 15:52:21,485 INFO [root] [base.py (base_find:23] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 15:52:21,498 INFO [root] [base.py (base_input:30] - 对：('css selector', '#tinymce')元素 执行清空操作
+2019-12-18 15:52:21,526 INFO [root] [base.py (base_input:33] - 对：('css selector', '#tinymce')元素 执行输入：今天天气阳光明媚操作
+2019-12-18 15:52:21,751 INFO [root] [base.py (base_click:39] - 对：('xpath', "//*[text()='自动']")元素 执行点击操作
+2019-12-18 15:52:21,751 INFO [root] [base.py (base_find:23] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 15:52:21,868 INFO [root] [base.py (base_click:39] - 对：('xpath', "//*[@placeholder='请选择']")元素 执行点击操作
+2019-12-18 15:52:21,869 INFO [root] [base.py (base_find:23] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 15:52:22,995 INFO [root] [base.py (base_click:39] - 对：('xpath', "//*[text()='数据库']/..")元素 执行点击操作
+2019-12-18 15:52:22,995 INFO [root] [base.py (base_find:23] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 15:52:23,103 INFO [root] [base.py (base_click:39] - 对：('xpath', "//*[text()='发表']/..")元素 执行点击操作
+2019-12-18 15:52:23,104 INFO [root] [base.py (base_find:23] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 15:52:23,197 INFO [root] [base.py (base_find:23] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 15:52:23,762 INFO [root] [base.py (base_get_text:44] - 执行对：('xpath', "//*[text()='新增文章成功']")元素 执行获取文本值 新增文章成功操作
+2019-12-18 15:52:23,763 INFO [root] [base.py (base_find:23] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 15:52:23,788 ERROR [root] [test02_mp_article.py (test_mp_article:43] - assert '新增文章成功！' == '新增文章成功'
+  - 新增文章成功！
+  ?       -
+  + 新增文章成功
+2019-12-18 15:52:24,315 ERROR [root] [base.py (base_get_image:51] - 出错啦！，正在截图操作，截图文件名为：err.png
+2019-12-18 15:52:24,315 INFO [root] [base.py (base_write_image_allure:58] - 正在将图片写入allur报告
+2019-12-18 15:52:24,316 INFO [root] [base.py (base_get_image:54] - 将图片写入allure报告完成
+2019-12-18 16:01:18,477 INFO [root] [base.py (__init__:15] - 获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="f237bf15d3705ce9e1b7164e730be907")>
+2019-12-18 16:01:18,477 INFO [root] [page_mp_login.py (page_mp_login_success:34] - 正在执行登录业务方法，用户名：13812345678 密码：246810
+2019-12-18 16:01:18,478 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:01:18,518 INFO [root] [base.py (base_input:33] - 对：('css selector', "[placeholder='请输入手机号']")元素 执行清空操作
+2019-12-18 16:01:18,567 INFO [root] [base.py (base_input:36] - 对：('css selector', "[placeholder='请输入手机号']")元素 执行输入：13812345678操作
+2019-12-18 16:01:18,810 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:01:18,823 INFO [root] [base.py (base_input:33] - 对：('css selector', "[placeholder='验证码']")元素 执行清空操作
+2019-12-18 16:01:18,851 INFO [root] [base.py (base_input:36] - 对：('css selector', "[placeholder='验证码']")元素 执行输入：246810操作
+2019-12-18 16:01:18,934 INFO [root] [base.py (base_click:42] - 对：('css selector', '.el-button--primary')元素 执行点击操作
+2019-12-18 16:01:18,934 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:01:19,034 INFO [root] [base.py (__init__:15] - 获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="f237bf15d3705ce9e1b7164e730be907")>
+2019-12-18 16:01:19,035 INFO [root] [page_mp_article.py (page_article:61] - 正在调用输入文章业务方法，文章标题：sz05002 文章内容：今天天气阳光明媚
+2019-12-18 16:01:21,035 INFO [root] [base.py (base_click:42] - 对：('xpath', "//ul[@role='menubar']//*[text()='内容管理']/..")元素 执行点击操作
+2019-12-18 16:01:21,035 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:01:22,122 INFO [root] [base.py (base_click:42] - 对：('xpath', "//ul[@role='menubar']//*[contains(text(),'发布文章')]")元素 执行点击操作
+2019-12-18 16:01:22,122 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:01:22,227 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:01:22,815 INFO [root] [base.py (base_input:33] - 对：('xpath', "//*[@placeholder='文章名称']")元素 执行清空操作
+2019-12-18 16:01:22,844 INFO [root] [base.py (base_input:36] - 对：('xpath', "//*[@placeholder='文章名称']")元素 执行输入：sz05002操作
+2019-12-18 16:01:25,112 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:01:25,157 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:01:25,172 INFO [root] [base.py (base_input:33] - 对：('css selector', '#tinymce')元素 执行清空操作
+2019-12-18 16:01:25,195 INFO [root] [base.py (base_input:36] - 对：('css selector', '#tinymce')元素 执行输入：今天天气阳光明媚操作
+2019-12-18 16:01:25,389 INFO [root] [base.py (base_click:42] - 对：('xpath', "//*[text()='自动']")元素 执行点击操作
+2019-12-18 16:01:25,389 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:01:25,495 INFO [root] [base.py (base_click:42] - 对：('xpath', "//*[text()='请选择']")元素 执行点击操作
+2019-12-18 16:01:25,495 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:02:36,495 INFO [root] [base.py (__init__:15] - 获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="9b530c7e6a74140d0dc366719f17c1fd")>
+2019-12-18 16:02:36,495 INFO [root] [page_mp_login.py (page_mp_login_success:34] - 正在执行登录业务方法，用户名：13812345678 密码：246810
+2019-12-18 16:02:36,495 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:02:36,515 INFO [root] [base.py (base_input:33] - 对：('css selector', "[placeholder='请输入手机号']")元素 执行清空操作
+2019-12-18 16:02:36,547 INFO [root] [base.py (base_input:36] - 对：('css selector', "[placeholder='请输入手机号']")元素 执行输入：13812345678操作
+2019-12-18 16:02:36,708 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:02:36,722 INFO [root] [base.py (base_input:33] - 对：('css selector', "[placeholder='验证码']")元素 执行清空操作
+2019-12-18 16:02:36,749 INFO [root] [base.py (base_input:36] - 对：('css selector', "[placeholder='验证码']")元素 执行输入：246810操作
+2019-12-18 16:02:36,835 INFO [root] [base.py (base_click:42] - 对：('css selector', '.el-button--primary')元素 执行点击操作
+2019-12-18 16:02:36,836 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:02:36,932 INFO [root] [base.py (__init__:15] - 获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="9b530c7e6a74140d0dc366719f17c1fd")>
+2019-12-18 16:02:36,933 INFO [root] [page_mp_article.py (page_article:61] - 正在调用输入文章业务方法，文章标题：sz05002 文章内容：今天天气阳光明媚
+2019-12-18 16:02:38,933 INFO [root] [base.py (base_click:42] - 对：('xpath', "//ul[@role='menubar']//*[text()='内容管理']/..")元素 执行点击操作
+2019-12-18 16:02:38,933 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:02:40,058 INFO [root] [base.py (base_click:42] - 对：('xpath', "//ul[@role='menubar']//*[contains(text(),'发布文章')]")元素 执行点击操作
+2019-12-18 16:02:40,058 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:02:40,139 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:02:40,805 INFO [root] [base.py (base_input:33] - 对：('xpath', "//*[@placeholder='文章名称']")元素 执行清空操作
+2019-12-18 16:02:40,856 INFO [root] [base.py (base_input:36] - 对：('xpath', "//*[@placeholder='文章名称']")元素 执行输入：sz05002操作
+2019-12-18 16:02:43,118 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:02:43,170 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:02:43,188 INFO [root] [base.py (base_input:33] - 对：('css selector', '#tinymce')元素 执行清空操作
+2019-12-18 16:02:43,211 INFO [root] [base.py (base_input:36] - 对：('css selector', '#tinymce')元素 执行输入：今天天气阳光明媚操作
+2019-12-18 16:02:43,398 INFO [root] [base.py (base_click:42] - 对：('xpath', "//*[text()='自动']")元素 执行点击操作
+2019-12-18 16:02:43,398 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:02:43,562 INFO [root] [base.py (base_click:42] - 对：('xpath', "//*[@placeholder='请选择']")元素 执行点击操作
+2019-12-18 16:02:43,562 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:02:44,676 INFO [root] [base.py (base_click:42] - 对：('xpath', "//*[@placeholder='数据库']")元素 执行点击操作
+2019-12-18 16:02:44,676 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:04:04,109 INFO [root] [base.py (__init__:15] - 获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="9dbdb710445cd1d750bcecbddff2a661")>
+2019-12-18 16:04:04,109 INFO [root] [page_mp_login.py (page_mp_login_success:34] - 正在执行登录业务方法，用户名：13812345678 密码：246810
+2019-12-18 16:04:04,110 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:04:04,132 INFO [root] [base.py (base_input:33] - 对：('css selector', "[placeholder='请输入手机号']")元素 执行清空操作
+2019-12-18 16:04:04,236 INFO [root] [base.py (base_input:36] - 对：('css selector', "[placeholder='请输入手机号']")元素 执行输入：13812345678操作
+2019-12-18 16:04:04,415 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:04:04,433 INFO [root] [base.py (base_input:33] - 对：('css selector', "[placeholder='验证码']")元素 执行清空操作
+2019-12-18 16:04:04,462 INFO [root] [base.py (base_input:36] - 对：('css selector', "[placeholder='验证码']")元素 执行输入：246810操作
+2019-12-18 16:04:04,565 INFO [root] [base.py (base_click:42] - 对：('css selector', '.el-button--primary')元素 执行点击操作
+2019-12-18 16:04:04,565 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:04:04,670 INFO [root] [base.py (__init__:15] - 获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="9dbdb710445cd1d750bcecbddff2a661")>
+2019-12-18 16:04:04,671 INFO [root] [page_mp_article.py (page_article:61] - 正在调用输入文章业务方法，文章标题：sz05002 文章内容：今天天气阳光明媚
+2019-12-18 16:04:06,674 INFO [root] [base.py (base_click:42] - 对：('xpath', "//ul[@role='menubar']//*[text()='内容管理']/..")元素 执行点击操作
+2019-12-18 16:04:06,674 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:04:07,753 INFO [root] [base.py (base_click:42] - 对：('xpath', "//ul[@role='menubar']//*[contains(text(),'发布文章')]")元素 执行点击操作
+2019-12-18 16:04:07,753 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:04:07,880 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:04:08,449 INFO [root] [base.py (base_input:33] - 对：('xpath', "//*[@placeholder='文章名称']")元素 执行清空操作
+2019-12-18 16:04:08,565 INFO [root] [base.py (base_input:36] - 对：('xpath', "//*[@placeholder='文章名称']")元素 执行输入：sz05002操作
+2019-12-18 16:04:10,787 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:04:10,826 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:04:10,843 INFO [root] [base.py (base_input:33] - 对：('css selector', '#tinymce')元素 执行清空操作
+2019-12-18 16:04:10,871 INFO [root] [base.py (base_input:36] - 对：('css selector', '#tinymce')元素 执行输入：今天天气阳光明媚操作
+2019-12-18 16:04:11,048 INFO [root] [base.py (base_click:42] - 对：('xpath', "//*[text()='自动']")元素 执行点击操作
+2019-12-18 16:04:11,048 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:04:11,136 INFO [root] [base.py (base_click:42] - 对：('xpath', "//*[@placeholder='请选择']")元素 执行点击操作
+2019-12-18 16:04:11,136 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:04:12,272 INFO [root] [base.py (base_click:42] - 对：('xpath', "//*[text()='数据库']")元素 执行点击操作
+2019-12-18 16:04:12,272 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:04:12,369 INFO [root] [base.py (base_click:42] - 对：('xpath', "//*[text()='发表']/..")元素 执行点击操作
+2019-12-18 16:04:12,369 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:04:12,499 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
+2019-12-18 16:04:13,098 INFO [root] [base.py (base_get_text:47] - 执行对：('xpath', "//*[text()='新增文章成功']")元素 执行获取文本值 新增文章成功操作
+2019-12-18 16:04:13,098 INFO [root] [base.py (base_find:26] - 正在查找：<RootLogger root (INFO)> 元素
